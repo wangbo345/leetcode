@@ -7,9 +7,9 @@ package 数组;
  * @description :
  */
 public class _二维数组中的查找 {
+
     public static void main(String[] args) {
-        int[][] a={{1,1}};
-        boolean numberIn2DArray = findNumberIn2DArray(a, 2);
+
     }
     public static boolean findNumberIn2DArray(int[][] matrix, int target) {
 
